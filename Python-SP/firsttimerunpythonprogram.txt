@@ -1,0 +1,4 @@
+Updat configuration first time
+
+when you run your code for first time (on a new file) just type keyboard Alt+Shift+F10 to run and save the configuration. On the second time (after configuration is saved) just type Alt+F10 to run your code.
+
