@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyFubonacci", "PyFubonacci.pyproj", "{DD2EFE30-8360-4049-A428-7558BA91D3AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD2EFE30-8360-4049-A428-7558BA91D3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2EFE30-8360-4049-A428-7558BA91D3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDD0A6BB-086B-4B79-A8E5-0E99D12B7D1C}
+	EndGlobalSection
+EndGlobal
